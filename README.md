@@ -3,8 +3,7 @@
 **ExecuTorch** is an end-to-end solution for enabling on-device inference
 capabilities across mobile and edge devices including wearables, embedded
 devices and microcontrollers. It is part of the PyTorch Edge ecosystem and
-enables efficient deployment of PyTorch models to edge devices.
-
+enables efficient deployment of PyTorch models to edge devices
 Key value propositions of ExecuTorch are:
 
 - **Portability:** Compatibility with a wide variety of computing platforms,
@@ -84,6 +83,6 @@ executorch
 ├── third-party                     #  third-party dependencies
 ├── util                            #  TODO delete this
 ```
-
+until
 ## License
 ExecuTorch is BSD licensed, as found in the LICENSE file.
