@@ -111,4 +111,4 @@ schemas.
 ```
 
 ## License
-ExecuTorch is BSD licensed, as found in the LICENSE file.
+ExecuTorch is  licensed, as found in the LICENSE file.
